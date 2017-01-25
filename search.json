@@ -2,6 +2,14 @@
 
   
     {
+      "title"			: "January meeting recap",
+      "link"			: "https://pgcmh.github.io/articles/January-meeting-recap/",
+      "excerpt"		: "pgCMH held its first ever meeting last nite at CoverMyMeds in downtown Columbus. We had an attendance of 10 members (out of 16 that had RSVP’d) and the meeting lasted slightly longer than the hour that was planned. Everyone present had a chance to introduce themselves to the group, explain their PostgreSQL “comfort level”, and provide feedback into what they hoped to gain from the group. In all, it was a very productive meeting!"
+    }
+  
+
+  
+    ,{
       "title"			: "Inaugural pgCMH mtg scheduled",
       "link"			: "https://pgcmh.github.io/articles/Inaugural-pgCMH-mtg/",
       "excerpt"		: "As announced on our Twitter, we’ve scheduled our inaugural meeting for Jan 24, 2017 at 1800 hrs. The folks at CoverMyMeds will graciously provide the meeting space (and parking garage) while OpenSCG is buying the pizza!"
