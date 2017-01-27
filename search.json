@@ -2,6 +2,14 @@
 
   
     {
+      "title"			: "Feb meeting announcement",
+      "link"			: "https://pgcmh.github.io/articles/Feb-meeting-announcement/",
+      "excerpt"		: "The Feb meeting for pgCMH will be held on Tues, Feb 28. Once again, we’ll be holding the meeting at 18:00 EST in the 11th floor community space at CoverMyMeds."
+    }
+  
+
+  
+    ,{
       "title"			: "Join the conversation on Slack",
       "link"			: "https://pgcmh.github.io/articles/Join-the-conversation-on-Slack/",
       "excerpt"		: "As a user group, one of the goals of pgCMH is helping users interact with the larger community. Whether it be for technical assistance, socializing, advocacy, or other, keeping the conversation going is a large goal for us. Which is why we’re pleased to announce the #pgcmh channel on Slack!"
