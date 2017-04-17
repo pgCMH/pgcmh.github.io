@@ -2,6 +2,14 @@
 
   
     {
+      "title"			: "Using Consul and PostgreSQL to scale up CoverMyMeds",
+      "link"			: "https://pgcmh.github.io/articles/Using-Consul-and-PostgreSQL-to-scale-up-CoverMyMeds/",
+      "excerpt"		: "The April meeting will be held at 18:00 EST on Tues, the 25th. Once again, we will be holding the meeting in the community space at CoverMyMeds. Please RSVP on MeetUp so we have an idea on the amount of food needed."
+    }
+  
+
+  
+    ,{
       "title"			: "March mtg recap",
       "link"			: "https://pgcmh.github.io/articles/March-mtg-recap/",
       "excerpt"		: "(Sorry for the delay in getting this out, work travel interfered)"
