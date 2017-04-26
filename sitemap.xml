@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://pgcmh.github.io/articles/May-mtg-Introduction-to-pgBouncer/</loc>
+<lastmod>2017-04-26T00:00:00-04:00</lastmod>
+</url>
+<url>
 <loc>https://pgcmh.github.io/articles/Using-Consul-and-PostgreSQL-to-scale-up-CoverMyMeds/</loc>
 <lastmod>2017-04-17T00:00:00-04:00</lastmod>
 </url>
