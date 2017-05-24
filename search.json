@@ -2,6 +2,14 @@
 
   
     {
+      "title"			: "May mtg recap",
+      "link"			: "https://pgcmh.github.io/articles/May-mtg-recap/",
+      "excerpt"		: "The May “Intro to PgBouncer” meeting was held last night in the community space at CoverMyMeds. We wish to thank everyone who attended and hope the presentation was informative."
+    }
+  
+
+  
+    ,{
       "title"			: "May mtg Introduction to pgBouncer",
       "link"			: "https://pgcmh.github.io/articles/May-mtg-Introduction-to-pgBouncer/",
       "excerpt"		: "The May meeting will be held at 18:00 EST on Tues, the 23rd. Once again, we will be holding the meeting in the community space at CoverMyMeds. Please RSVP on MeetUp so we have an idea on the amount of food needed."
