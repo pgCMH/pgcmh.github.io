@@ -10,6 +10,14 @@
 
   
     ,{
+      "title"			: "Top 10 Mistakes When Migrating From Oracle to PostgreSQL",
+      "link"			: "https://pgcmh.github.io/articles/Top-10-Mistakes-When-Migrating-From-Oracle-to-PostgreSQL/",
+      "excerpt"		: "The July meeting will be held at 18:00 EST on Tues, the 25th. Once again, we will be holding the meeting in the community space at CoverMyMeds. Please RSVP on MeetUp so we have an idea on the amount of food needed."
+    }
+  
+
+  
+    ,{
       "title"			: "Of Hippos, Whales, and Elephants - Crunchy Postgres on Docker",
       "link"			: "https://pgcmh.github.io/articles/Of-Hippos-Whales-and-Elephants-Crunchy-Postgres-on-Docker/",
       "excerpt"		: "The June meeting will be held at 18:00 EST on Tues, the 27th. Once again, we will be holding the meeting in the community space at CoverMyMeds. Please RSVP on MeetUp so we have an idea on the amount of food needed."
