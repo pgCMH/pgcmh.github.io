@@ -2,6 +2,22 @@
 
   
     {
+      "title"			: "What is new in Pg 10",
+      "link"			: "https://pgcmh.github.io/articles/What-is-new-in-Pg-10/",
+      "excerpt"		: "The Oct meeting will be held at 18:00 EST on Tues, the 24th. Once again, we will be holding the meeting in the community space at CoverMyMeds. Please RSVP on MeetUp so we have an idea on the amount of food needed."
+    }
+  
+
+  
+    ,{
+      "title"			: "PGConf US comes to Columbus",
+      "link"			: "https://pgcmh.github.io/articles/PGConf-US-comes-to-Columbus/",
+      "excerpt"		: "The Sept meeting will not be held this month. Instead, we’ve worked with PGConf US and Ohio Linux Fest to bring the first ever PostgreSQL conference to Ohio!"
+    }
+  
+
+  
+    ,{
       "title"			: "MVCC in PostgreSQL",
       "link"			: "https://pgcmh.github.io/articles/MVCC-in-PostgreSQL/",
       "excerpt"		: "The August meeting will be held at 18:00 EST on Tues, the 22nd. Once again, we will be holding the meeting in the community space at CoverMyMeds. Please RSVP on MeetUp so we have an idea on the amount of food needed."
