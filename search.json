@@ -2,6 +2,14 @@
 
   
     {
+      "title"			: "Thinking caps required",
+      "link"			: "https://pgcmh.github.io/articles/Thinking-caps-required/",
+      "excerpt"		: "The Jan meeting will be held at 18:00 EST on Tues, the 23rd. Once again, we will be holding the meeting in the community space at CoverMyMeds. Please RSVP on MeetUp so we have an idea on the amount of food needed."
+    }
+  
+
+  
+    ,{
       "title"			: "What is new in Pg 10",
       "link"			: "https://pgcmh.github.io/articles/What-is-new-in-Pg-10/",
       "excerpt"		: "The Oct meeting will be held at 18:00 EST on Tues, the 24th. Once again, we will be holding the meeting in the community space at CoverMyMeds. Please RSVP on MeetUp so we have an idea on the amount of food needed."
@@ -139,6 +147,8 @@
   
 
   
+
+  
     ,{
       "title"			: "Theme Setup",
       "link"			: "https://pgcmh.github.io/theme-setup/",
@@ -152,8 +162,6 @@
       "link"			: "https://pgcmh.github.io/about/",
       "excerpt"		: "pgCMH is the Columbus, OH based PostgreSQL User Group."
     }
-  
-
   
 
   
