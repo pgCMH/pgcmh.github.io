@@ -2,6 +2,14 @@
 
   
     {
+      "title"			: "PostgreSQL restores hands-on",
+      "link"			: "https://pgcmh.github.io/articles/PostgreSQL-restores-hands-on/",
+      "excerpt"		: "The April meeting will be held at 18:00 EST on Tues, the 24th. Once again, we will be holding the meeting in the community space at CoverMyMeds. Please RSVP on MeetUp so we have an idea on the amount of food needed."
+    }
+  
+
+  
+    ,{
       "title"			: "PostgreSQL backups hands-on",
       "link"			: "https://pgcmh.github.io/articles/PostgreSQL-backups-hands-on/",
       "excerpt"		: "BRING YOUR LAPTOP"
