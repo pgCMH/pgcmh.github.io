@@ -2,6 +2,14 @@
 
   
     {
+      "title"			: "See you at PyCon",
+      "link"			: "https://pgcmh.github.io/articles/See-you-at-PyCon/",
+      "excerpt"		: "Hey everyone! Just a quick note to let you all know that both CJ and myself are manning the PostgreSQL community booth at this year’s PyCon next week in Cleveland, OH."
+    }
+  
+
+  
+    ,{
       "title"			: "PostgreSQL restores hands-on",
       "link"			: "https://pgcmh.github.io/articles/PostgreSQL-restores-hands-on/",
       "excerpt"		: "The April meeting will be held at 18:00 EST on Tues, the 24th. Once again, we will be holding the meeting in the community space at CoverMyMeds. Please RSVP on MeetUp so we have an idea on the amount of food needed."
