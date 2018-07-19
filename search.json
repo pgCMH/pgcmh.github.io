@@ -2,6 +2,14 @@
 
   
     {
+      "title"			: "PostgreSQL Data Types and You II",
+      "link"			: "https://pgcmh.github.io/articles/PostgreSQL-Data-Types-and-You-II/",
+      "excerpt"		: "The July meeting will be held at 18:00 EST on Tues, the 24th. Once again, we will be holding the meeting in the community space at CoverMyMeds. Please RSVP on MeetUp so we have an idea on the amount of food needed."
+    }
+  
+
+  
+    ,{
       "title"			: "PostgreSQL Data Types and You",
       "link"			: "https://pgcmh.github.io/articles/PostgreSQL-Data-Types-and-You/",
       "excerpt"		: "The June meeting will be held at 18:00 EST on Tues, the 26th. Once again, we will be holding the meeting in the community space at CoverMyMeds. Please RSVP on MeetUp so we have an idea on the amount of food needed."
