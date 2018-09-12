@@ -2,6 +2,14 @@
 
   
     {
+      "title"			: "Inside PG 11",
+      "link"			: "https://pgcmh.github.io/articles/Inside-PG-11/",
+      "excerpt"		: "The Sep meeting will be held at 18:00 EST on Tues, the 25th. Once again, we will be holding the meeting in the community space at CoverMyMeds. Please RSVP on MeetUp so we have an idea on the amount of food needed."
+    }
+  
+
+  
+    ,{
       "title"			: "Inside the Database Cluster",
       "link"			: "https://pgcmh.github.io/articles/Inside-the-Database-Cluster/",
       "excerpt"		: "The Aug meeting will be held at 18:00 EST on Tues, the 28th. Once again, we will be holding the meeting in the community space at CoverMyMeds. Please RSVP on MeetUp so we have an idea on the amount of food needed."
