@@ -2,6 +2,14 @@
 
   
     {
+      "title"			: "What's new in pgBouncer",
+      "link"			: "https://pgcmh.github.io/articles/Whats-new-in-pgBouncer/",
+      "excerpt"		: "The June meeting will be held at 18:00 EST on Tues, the 25th. Once again, we will be holding the meeting in the community space at CoverMyMeds. Please RSVP on MeetUp so we have an idea on the amount of food needed."
+    }
+  
+
+  
+    ,{
       "title"			: "Users, Roles, and Permissions",
       "link"			: "https://pgcmh.github.io/articles/Users-Roles-and-Permissions/",
       "excerpt"		: "The May meeting will be held at 18:00 EST on Tues, the 28th. Once again, we will be holding the meeting in the community space at CoverMyMeds. Please RSVP on MeetUp so we have an idea on the amount of food needed."
