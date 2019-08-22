@@ -2,6 +2,14 @@
 
   
     {
+      "title"			: "Wraparound is coming",
+      "link"			: "https://pgcmh.github.io/articles/Wraparound-is-coming/",
+      "excerpt"		: "The August meeting will be held at 18:00 EST on Tues, the 27th. Once again, we will be holding the meeting in the community space at CoverMyMeds. Please RSVP on MeetUp so we have an idea on the amount of food needed."
+    }
+  
+
+  
+    ,{
       "title"			: "What's new in pgBouncer",
       "link"			: "https://pgcmh.github.io/articles/Whats-new-in-pgBouncer/",
       "excerpt"		: "The June meeting will be held at 18:00 EST on Tues, the 25th. Once again, we will be holding the meeting in the community space at CoverMyMeds. Please RSVP on MeetUp so we have an idea on the amount of food needed."
