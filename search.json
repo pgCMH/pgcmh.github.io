@@ -1,6 +1,12 @@
 [
 
   
+    {
+      "title"			: "Foreign Data Wrappers Accessing External Data from a PostgreSQL database",
+      "link"			: "https://pgcmh.github.io/articles/Foreign-Data-Wrappers-Accessing-External-Data-from-a-PostgreSQL-database/",
+      "excerpt"		: "What"
+    }
+  
 
   
     ,{
